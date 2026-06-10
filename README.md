@@ -1,4 +1,4 @@
-# RappiPlus: End-to-End Business Analysis
+# End-to-End Business Analysis
 
 > From raw data to actionable insights — a full analytics pipeline covering data quality, profitability, user behavior, cohort retention, A/B testing, and BI dashboard delivery.
 
