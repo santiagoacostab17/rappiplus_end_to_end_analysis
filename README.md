@@ -21,8 +21,6 @@ rappiplus-end-to-end-analysis/
 ├── orders_clean.csv                       # Cleaned orders dataset (output)
 ├── catalog_clean.csv                      # Cleaned product catalog (output)
 ├── marketing_clean.csv                    # Cleaned marketing spend (output)
-├── paso2_visualizaciones.png              # EDA charts (Step 2)
-├── cohort_retention.png                   # Cohort heatmap (Step 4)
 └── README.md
 ```
 
