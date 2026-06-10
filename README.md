@@ -16,12 +16,14 @@ This project evaluates the performance of the **RappiPlus** subscription service
 
 ```
 rappiplus-end-to-end-analysis/
-│
-├── rappiplus_end_to_end_analysis.ipynb   # Main analysis notebook
-├── orders_clean.csv                       # Cleaned orders dataset (output)
-├── catalog_clean.csv                      # Cleaned product catalog (output)
-├── marketing_clean.csv                    # Cleaned marketing spend (output)
-└── README.md
+├── README.md
+├── rappiplus_end_to_end_analysis.ipynb
+├── data/
+│   ├── orders_clean.csv
+│   ├── catalog_clean.csv
+│   └── marketing_clean.csv
+└── dashboard/
+    └── rappiplus_dashboards.pbix
 ```
 
 ---
